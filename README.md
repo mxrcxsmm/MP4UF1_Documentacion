@@ -28,6 +28,7 @@
       1. Ir a [Github.com](https://github.com/join)
       2. Escriba un nombre de usuario, una dirección de correo electrónico y una contraseña
       3. Ir a __Sign up for Github__ y seguir las instrucciones.
+   
    1.3. Instalación de Visual Studio Code
       1. Ir a la página Microsoft [Visual Studio Code](https://code.visualstudio.com/) y haz clic          en el botón de descargar.
       2. Abrir el archivo de instalación en nuestra carpeta de descargas para iniciar la                  instalación
