@@ -35,3 +35,6 @@
       3. Cuando nos aparece la primera pantalla del instalador, tenemos que aceptar el acuerdo de licencia y le damos todo a __Next__ hasta que nos aparezca la última            pantalla que nos saldrá __Finish__ y ya podremos utilizar nuestro programa.
 
    1.4. Como crear los repositorios en Github
+2. Markdown
+3. HTML
+
