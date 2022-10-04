@@ -35,6 +35,27 @@
       3. Cuando nos aparece la primera pantalla del instalador, tenemos que aceptar el acuerdo de licencia y le damos todo a __Next__ hasta que nos aparezca la última            pantalla que nos saldrá __Finish__ y ya podremos utilizar nuestro programa.
 
    1.4. Como crear los repositorios en Github
+   ![image](https://user-images.githubusercontent.com/90915730/193757398-0ca53db6-2763-405f-b097-bcd2658c9ef5.png)
+   
+   
+   Para crear un nuevo repositorio en Github, tienes que irte a mis repositorios y clicar en la zona marcada que pone New.
+   
+   
+   
+   ![image](https://user-images.githubusercontent.com/90915730/193758482-beaf0afc-0754-4438-83ad-d085aa362631.png)
+   
+   Una vez le das a New, te sale esta ventana donde en las zonas remarcadas son las zonas "más importantes" por así decirlo. La primera es como se va a llamar tu          repositorio y como lo van a ver las personas que lo visitarán. El siguiente punto es decidir si va a ser privado o público, es decir, si quieres todo el mundo o si    es privado, solo la gente que tu decidas que lo pueda ver. El siguiente punto es decidir si va a tener un fichero README.md, eso quiere decir que es un documento      como si fuese de texto pero tiene diferentes funciones que en el siguiente punto os explico. Por último, es el botón para crear el repositorio.
+
+   1.5. Sintaxis Markdown
+    - Las ```#``` son uno de los métodos utilizados en Markdown para crear encabezados. El más grande es         poniendo una almohadilla y el más pequeño es poniendo 6 almohadillas.
+    - Las citas se generan utilizando el carácter ```>``` la comienzo del bloque o texto.
+    - Para crear las listas desordenadas se utilizan tres tipos de símbolos: 
+        * Asteriscos 
+        * Guiones
+        * Símbolo de suma
+    - Para crear las listas ordenadas, debemos utilizar la sintaxis de tipo: <<número.>> ```1.```. Al           igual que con las desordenadas, podremos combinarlas.
+    - Para crear un bloque entero que contenga código, lo único que tenemos que hacer es encerrar dicho         párrafo entre dos líneas formadas por tres ```~``` virgulillas.
+    - 
 2. Markdown
 3. HTML
 
