@@ -87,3 +87,7 @@
 
 3. HTML
 
+(![image](https://user-images.githubusercontent.com/90915730/196371080-4b196740-b0cd-43b2-aca5-ce771d12d1c5.png)
+
+   1. En el head, se tiene que poner el título que quieras para que salga tu página web. A parte, puedes enlazar con un documento css para aplicarle estilos a tu página y hacerla más dinámica.
+   2. En el body es donde va a ir toda la parte importante, es decir, todo el código de la página web.
