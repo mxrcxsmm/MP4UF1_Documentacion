@@ -87,7 +87,38 @@
 
 3. HTML
 
-(![image](https://user-images.githubusercontent.com/90915730/196371080-4b196740-b0cd-43b2-aca5-ce771d12d1c5.png)
+   ![image](https://user-images.githubusercontent.com/90915730/196371080-4b196740-b0cd-43b2-aca5-ce771d12d1c5.png)
 
    1. En el head, se tiene que poner el título que quieras para que salga tu página web. A parte, puedes enlazar con un documento css para aplicarle estilos a tu página y hacerla más dinámica.
+   
+   ![image](https://user-images.githubusercontent.com/90915730/208617025-2ef0c06f-7d43-4884-935e-b70ccfc2e401.png)
+   
    2. En el body es donde va a ir toda la parte importante, es decir, todo el código de la página web.
+   
+   ![image](https://user-images.githubusercontent.com/90915730/208617082-8c07db47-0875-44b9-bee9-59d493598021.png)
+   
+   3. <meta>. Define los metadatos que no pueden ser definidos usando otro elemento HTML. 
+   
+   ![image](https://user-images.githubusercontent.com/90915730/208616946-69cfdecc-0281-4d28-a6f8-b529df10a553.png)
+   
+   4. <title>. Representa el título del documento. Se muestra en la barra superior del navegador o en las pestañas de página.
+   
+   ![image](https://user-images.githubusercontent.com/90915730/208619625-ee146b8d-67cc-4f70-878e-af6b99ab0e21.png)
+
+   5. <link>. Utilizada para enlazar documentos externos, por ejemplo CSS. Se debe incluir dentro del <head>.
+   
+   ![image](https://user-images.githubusercontent.com/90915730/208619539-0516ae5d-2fdb-4a3e-b662-fcfbbd604886.png)   
+   
+   6. <style>. Usada para escribir CSS interno.
+   
+   ![image](https://user-images.githubusercontent.com/90915730/208618912-5cf0e0b2-8520-4cd3-b3c6-5a9d5a982e32.png)
+
+   7. <header>. Determina la cabecera de una web o de un elemento.
+   
+   ![image](https://user-images.githubusercontent.com/90915730/208619041-45b5b364-aaa8-4455-bb0e-b99ecde58516.png)
+
+   8. Encabezados. Describe el tema de la sección. Disponemos de seis niveles: de h1 a h6, siendo <h1> la cabecera de mayor importancia. Sólo puede existir una etiqueta <h1> en el documento.
+   
+   ![image](https://user-images.githubusercontent.com/90915730/208618333-090f3933-aa93-4d21-9eea-58b86ea0b34f.png)
+
+   ![image](https://user-images.githubusercontent.com/90915730/208618479-e5326930-d99d-4819-9588-584bf93e1a2d.png)
