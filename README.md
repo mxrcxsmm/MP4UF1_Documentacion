@@ -16,7 +16,6 @@
    2.1. Sintaxis Markdown
 3. HTML
 4. CSS
-5. Diseño Responsive
 --------------------------------------------------------
 1. GITHUB
    
